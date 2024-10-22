@@ -11,10 +11,36 @@ GO is your all-in-one solution to easily plan hangouts with friends by balancing
 ---
 
 ## 🌟 Features (UI-Only for Now)
+
 1. **Group Hangout Planning**: Balance everyone's preferences for cuisine, activities, and budget to create the perfect outing plan!
 2. **Meet New People**: Explore and connect with new people and potential friends nearby.
 3. **Explore Top Spots**: Get recommendations on popular spots to visit, all tailored to your group’s preferences.
 4. **Seamless Flow**: Enjoy smooth navigation through different screens and a user-friendly experience with a vibrant, orange-red theme!
+
+### Detailed Features(some of them)
+
+#### 1. **Login Page**
+- **Hassle-Free Login/Signup**: Get started within minutes! You can easily log in using your email, or choose the convenient options to log in through Google or Facebook.
+
+#### 2. **Home Page**
+- **Planned Hangouts**: Clearly visible details of all your upcoming hangouts, so you can keep track of your social calendar.
+- **Popular Hangout Spots**: Explore new places with personalized suggestions to strengthen your bonds and create lasting memories.
+
+#### 3. **Discover Page**
+- **Search Functionality**: Easily find a specific place or group to join.
+- **New Connections**: If your friends are too busy, discover new groups to hang out with—detailed information included!
+- **Suggested Plans**: No unique ideas? Let the app suggest plans with detailed itineraries, including timings and pricing.
+
+#### 4. **Creating Page**
+- **Quick Hangout Creation**: Create a hangout in minutes by selecting your preferences and the best venue to ensure everyone's happiness.
+
+#### 5. **Connect**
+- **Strengthen Bonds**: Reconnect with old friends or make new connections in the chat section.
+- **Friend Locator**: Know where your friends are hanging out, and create new plans to gossip about other hangouts (you know, just for fun! 😂).
+
+#### 6. **Profile**
+- **Personal Information**: Find your profile details and manage your account.
+- **Password Management**: Easily change your password or recover it if forgotten.
 
 ---
 
