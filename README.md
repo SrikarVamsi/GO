@@ -1,5 +1,9 @@
 # 🚀 GO App
 
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/GO/blob/main/gif/giphy.gif" alt="App Demo" width="400">
+</p>
+
 ### **An App to Make Planning Hangouts With Friends Hassle-Free!**
 
 GO is your all-in-one solution to easily plan hangouts with friends by balancing everyone's preferences for activities, cuisine, budget, and even location. Whether it's meeting new people, visiting top spots based on preferences, or booking reservations, GO makes planning effortless!
@@ -55,21 +59,20 @@ Here are some screenshots of the app in action!
 
 | Home | Preferences | Chat |
 |------|-------------|------|
-| ![Home](screenshots/home.png) | ![Preferences](screenshots/preferences.png) | ![Chat](screenshots/chat.png) |
+| ![Home](https://github.com/SrikarVamsi/GO/blob/main/Screenshots/landingpage.jpeg) | ![Preferences](https://github.com/SrikarVamsi/GO/blob/main/Screenshots/userPreferences%3AnewHangout.jpeg) | ![Chat](https://github.com/SrikarVamsi/GO/blob/main/Screenshots/chat%20and%20updates.jpeg) |
 
 *More screenshots are available in the [Screenshots](screenshots) folder!*
 
 ---
 
 ## 🤝 Contributions & Improvements
-If you’d like to contribute to this project or have suggestions for improving the UI/UX or backend, feel free to open a pull request or create an issue. Since this was built solo in 48 hours, I'm open to all kinds of collaboration!
+If you’d like make suggestions for improving the UI/UX or backend, feel free to open a pull request or create an issue. Since this was built solo in 48 hours, I'm open to all kinds of criticism!
 
 ---
 
 ## 📈 Status & What’s Next
 The app is in its **early stage** (UI-only). With more time and a team, we’d easily connect it to Firebase and implement complex planning algorithms.
 
-If you're interested in the future of this app, stay tuned!
 
 ---
 
